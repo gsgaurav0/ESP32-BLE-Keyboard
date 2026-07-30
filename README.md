@@ -1,4 +1,4 @@
-# ESP32 BLE Keyboard
+# ESP32 HID Keyboard
 
 Bluetooth Low Energy (BLE) Keyboard library for ESP32 boards.
 
